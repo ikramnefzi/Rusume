@@ -170,7 +170,7 @@ st.markdown(
         <a href="https://www.linkedin.com/in/ikram-nefzi-7019741b1/" class="button linkedin" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo"> LinkedIn
         </a>
-        <a href="https://github.com/ikramnefzi" class="button github" target="_blank">
+        <a href="https://github.com/ikramnefzi/Rusume" class="button github" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo"> GitHub
         </a>
     </div>
