@@ -124,7 +124,7 @@ def get_validation_symbol(skill, text):
         return f"{skill} ❌"  # Symbole non validé
 
 # Interface Streamlit
-st.title("Extraction d'informations depuis un CV PDF")
+st.title("Extraction d'informations et Analyse de Compétences depuis un CV PDF")
 
 # Ajout des liens LinkedIn et GitHub
 st.markdown(
