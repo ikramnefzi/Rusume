@@ -12,5 +12,9 @@ Dans ce projet, j'ai utilisé Streamlit, spaCy, et pdfplumber pour extraire des 
 - pdfplumber : Pour l'extraction du texte des fichiers PDF.
 - spaCy : Pour l'extraction des entités (nom, email, etc.) et le traitement du langage naturel.
 - JSON / CSV : Pour la gestion des compétences et la sauvegarde des données extraites.
-- 
-=======
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikram-nefzi-7019741b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
